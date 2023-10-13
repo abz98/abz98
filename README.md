@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Abhit Patil 👋</h1>
   <p>Tech Enthusiast | Software Engineer | Code Composer</p>
 </div>
 
@@ -16,7 +16,6 @@
 - B.Sc. in Information Technology
   - University of Mumbai
   - Mumbai, India
-  - CGPA: 6.3
 
 ### 💼 Professional Experience
 #### Software Engineer at Tidalwave Technologies Pvt Ltd
@@ -33,14 +32,10 @@
 - 🚀 Microsoft SaaS API Integration: Integration of API for publishing SaaS in Microsoft Azure Marketplace.
 - 💉 Vaccine Distribution Platform: PoC demo application for vaccine appointments and information visualization.
 
-### 📂 My Projects
-- [Project 1 Name](Link to Project 1): Short description.
-- [Project 2 Name](Link to Project 2): Short description.
-- [Project 3 Name](Link to Project 3): Short description.
+
 - ...
 
 ### 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Profile](Link to Twitter)
+- LinkedIn: [Lets roll](https://www.linkedin.com/in/eren-jaegar/)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to chat about all things tech. 😄
