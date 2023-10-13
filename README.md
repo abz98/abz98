@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abz98
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on react,nodejs,grpc and javascript
+- 🌱 I’m currently learning microservices
+- 💞️ I’m looking to collaborate on react,node js,grpc, and javascript
 - 📫 How to reach me abhi.jpatil98@gmail.com
 
 <!---
