@@ -4,10 +4,11 @@
 </div>
 
 ### 🛠️ Technical Skills
+- Architecture: Serverless, Micro-Frontend, Micro-Service, Mono-lithic, Stand-alone
 - Front-end: Vue.js, React.js, JINJA
 - Languages: JavaScript, TypeScript, Python, Dart
 - Back-end: Node.js, Express.js, Serverless, REST API, gRPC, sockets.io, SSE, Flask
-- Database: MongoDB
+- Database: MongoDB, postgresql
 - Serverless: GCP, AWS
 - Mobile: Flutter
 - Others: IPMI, SNMP, bash, vRAN
