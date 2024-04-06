@@ -13,6 +13,9 @@
 - Others: IPMI, SNMP, bash, vRAN
 
 ### 🎓 Education
+- Masters in Computer Applications
+  - SRM University
+  - Chennai, India
 - B.Sc. in Information Technology
   - University of Mumbai
   - Mumbai, India
